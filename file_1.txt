@@ -1,3 +1,4 @@
+Adding a new line at the top of the file
 Donna's first file
 Line 2.
 It's raining.
